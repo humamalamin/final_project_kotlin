@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FinalProjectKotlin</string>
+    <string name="title_teams">Team</string>
+    <string name="title_matches">Match</string>
+    <string name="title_favorites">Favorite</string>
+    <string name="title_search">Search</string>
+
+    <string name="title_next">Next</string>
+    <string name="title_last">Last</string>
+
+    <string name="title_vs">vs</string>
+
+    <string name="title_overview">Overview</string>
+    <string name="title_players">Players</string>
+
+    <string name="title_team_logo">Team Logo</string>
+    <string name="title_team_name">Team Name</string>
+    <string name="title_team_years">Years</string>
+    <string name="title_stadium_name">Stadium Name</string>
+
+    <string name="title_weight">Weight (Kg)</string>
+    <string name="title_height">Height (m)</string>
+
+    <string name="error_empty">No data available!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
